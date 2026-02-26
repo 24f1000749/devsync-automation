@@ -1,0 +1,1 @@
+[![Daily Commit - 24f1000749@ds.study.iitm.ac.in](https://github.com/24f1000749/devsync-automation/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/24f1000749/devsync-automation/actions/workflows/daily-commit.yml)
